@@ -1,8 +1,8 @@
 items:
   - text: Aides du CROUS
-    url: "#"
+    url: https://serene-liskov-2d3988.netlify.app/blog/aides-du-crous.md
   - text: Fonds d’aide aux jeunes (FAJ)
-    url: "#"
+    url: https://serene-liskov-2d3988.netlify.app/blog/epicerie-etudiante-la-garde.md
   - text: Epicerie Etudiante La Garde
     url: "#"
   - text: Blog
